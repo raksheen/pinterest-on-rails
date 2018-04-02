@@ -61,3 +61,4 @@ gem 'simple_form', '~> 3.5', '>= 3.5.1'
 gem 'devise', '~> 4.4', '>= 4.4.3'
 
 gem 'paperclip', '~> 6.0'
+gem 'masonry-rails', '~> 0.2.4'
